@@ -1,7 +1,7 @@
 ## To run this app on local machine use the following command:
 
 - git install
-- git start
+- npm start
 
 ## To communicate with the back end APi :
 
